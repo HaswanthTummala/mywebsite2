@@ -120,7 +120,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 /* home section */
 #home {
-	background: url('../images/haswanthtummala.png') 50% 0 repeat-y fixed;
+	/*background: url('../images/haswanthtummala.png') 50% 0 repeat-y fixed;*/
 	color: white;
 	display: -webkit-box;
 	display: -webkit-flex;
